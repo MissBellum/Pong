@@ -1,5 +1,5 @@
 # 🎮 Pong Game
-Welcome to the Pong Game! Classic arcade-style game, built with Python and Tkinter.
+Welcome to the Pong Game! Classic arcade-style game, built with Python and the Turtle module.
 
 Features
 - Two-Player Mode: Play against a friend on the same machine.
